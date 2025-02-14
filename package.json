@@ -1,0 +1,25 @@
+{
+  "name": "my-mastra-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "mastra dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@ai-sdk/anthropic": "^1.1.8",
+    "@mastra/core": "^0.2.0-alpha.109",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.4",
+    "mastra": "^0.2.0-alpha.169",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
