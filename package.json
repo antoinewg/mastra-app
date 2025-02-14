@@ -15,6 +15,7 @@
   "dependencies": {
     "@ai-sdk/anthropic": "^1.1.8",
     "@mastra/core": "^0.2.0-alpha.109",
+    "@mastra/deployer-vercel": "0.1.0-alpha.67",
     "zod": "^3.24.2"
   },
   "devDependencies": {
